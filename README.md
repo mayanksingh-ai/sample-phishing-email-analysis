@@ -1,6 +1,10 @@
 # sample-phishing-email-analysis
 Task 2 Elevate labs
 # Phishing Email Analysis Report
+**Made by- Mayank Singh**
+
+
+**Internship- Elevate Labs**
 
 ## Task Objective
 To analyze a suspicious email and identify phishing indicators such as email spoofing, mismatched URLs, urgent language, and header anomalies.
